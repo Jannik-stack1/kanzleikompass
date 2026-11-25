@@ -1,7 +1,7 @@
 {
   "version": 1,
   "researchAt": "2026-11-02",
-  "lastRunAt": "2026-11-25T13:40:10Z",
+  "lastRunAt": "2026-11-25T19:12:55Z",
   "jobs": [
     {
       "id": "live-22608a0d04e1f9db",
@@ -51,7 +51,7 @@
       "sourceId": "aoshearman",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -103,7 +103,7 @@
       "sourceId": "aoshearman",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -129,7 +129,7 @@
       "sourceId": "aoshearman",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -155,7 +155,7 @@
       "sourceId": "aoshearman",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -181,7 +181,7 @@
       "sourceId": "aoshearman",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -259,7 +259,7 @@
       "sourceId": "aoshearman",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -337,7 +337,7 @@
       "sourceId": "aoshearman",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -363,7 +363,7 @@
       "sourceId": "aoshearman",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -390,7 +390,7 @@
       "sourceId": "aoshearman",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -443,7 +443,7 @@
       "sourceId": "aoshearman",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -469,7 +469,7 @@
       "sourceId": "aoshearman",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -495,7 +495,7 @@
       "sourceId": "aoshearman",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -547,7 +547,7 @@
       "sourceId": "aoshearman",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -626,7 +626,7 @@
       "sourceId": "arqis",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -652,7 +652,7 @@
       "sourceId": "arqis",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -678,7 +678,7 @@
       "sourceId": "arqis",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -704,7 +704,7 @@
       "sourceId": "arqis",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -730,7 +730,7 @@
       "sourceId": "arqis",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -756,7 +756,7 @@
       "sourceId": "birdbird",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -782,7 +782,7 @@
       "sourceId": "birdbird",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -808,7 +808,7 @@
       "sourceId": "birdbird",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -834,7 +834,7 @@
       "sourceId": "birdbird",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -860,7 +860,7 @@
       "sourceId": "birdbird",
       "availability": "seen",
       "firstSeenAt": "2026-11-10T19:14:12Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -886,7 +886,7 @@
       "sourceId": "birdbird",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -912,9 +912,34 @@
       "sourceId": "birdbird",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": false,
       "missingChecks": 0
+    },
+    {
+      "id": "live-b6ee27e9fe36c0de",
+      "firm": "Bird & Bird",
+      "title": "Wissenschaftlicher Mitarbeiter (m/w/d) Energie- und Infrastrukturprojekte",
+      "cities": [
+        "Hamburg"
+      ],
+      "fields": [
+        "Energie"
+      ],
+      "category": "active",
+      "evidence": "verified",
+      "desc": "Auf einer offiziellen Stellenquelle gefunden. Voraussetzungen, Arbeitstage und Verfügbarkeit für Januar–August 2027 im Original prüfen.",
+      "requirements": "In der offiziellen Ausschreibung prüfen.",
+      "hours": "Mit dem jeweiligen Team klären.",
+      "url": "https://twobirds.softgarden.io/job/68960591/Wissenschaftlicher-Mitarbeiter-m-w-d-Energie-und-Infrastrukturprojekte?jobDbPVId=291621896&l=de",
+      "source": "https://twobirds.softgarden.io/de/vacancies",
+      "checked": "2026-11-25",
+      "auto": true,
+      "sourceId": "birdbird",
+      "availability": "seen",
+      "firstSeenAt": "2026-11-25T19:12:55Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
+      "isNew": true
     },
     {
       "id": "live-ac47aa3e1db639af",
@@ -1040,7 +1065,7 @@
       "sourceId": "fieldfisher",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": false,
       "missingChecks": 0
     },
@@ -1066,7 +1091,7 @@
       "sourceId": "fieldfisher",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -1092,7 +1117,7 @@
       "sourceId": "fieldfisher",
       "availability": "seen",
       "firstSeenAt": "2026-11-18T13:31:16Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -1119,7 +1144,7 @@
       "sourceId": "fieldfisher",
       "availability": "seen",
       "firstSeenAt": "2026-11-02",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -1958,7 +1983,7 @@
       "sourceId": "heuking",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": false,
       "missingChecks": 0
     },
@@ -1984,7 +2009,7 @@
       "sourceId": "heuking",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": false,
       "missingChecks": 0
     },
@@ -2010,7 +2035,7 @@
       "sourceId": "heuking",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -2036,7 +2061,7 @@
       "sourceId": "heuking",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -2063,7 +2088,7 @@
       "sourceId": "heuking",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": false,
       "missingChecks": 0
     },
@@ -2090,7 +2115,7 @@
       "sourceId": "heuking",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": false,
       "missingChecks": 0
     },
@@ -2803,7 +2828,7 @@
       "sourceId": "kapellmann",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -2855,7 +2880,7 @@
       "sourceId": "kapellmann",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -2881,7 +2906,7 @@
       "sourceId": "kapellmann",
       "availability": "seen",
       "firstSeenAt": "2026-11-13T07:34:31Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -3283,7 +3308,7 @@
       "sourceId": "szaschillingzuttanschtz",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -3309,7 +3334,7 @@
       "sourceId": "szaschillingzuttanschtz",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -3335,7 +3360,7 @@
       "sourceId": "szaschillingzuttanschtz",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -3361,7 +3386,7 @@
       "sourceId": "szaschillingzuttanschtz",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": false,
       "missingChecks": 0
     },
@@ -3387,7 +3412,7 @@
       "sourceId": "szaschillingzuttanschtz",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -3414,7 +3439,7 @@
       "sourceId": "szaschillingzuttanschtz",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -3441,7 +3466,7 @@
       "sourceId": "szaschillingzuttanschtz",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -3468,7 +3493,7 @@
       "sourceId": "szaschillingzuttanschtz",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -3494,7 +3519,7 @@
       "sourceId": "szaschillingzuttanschtz",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": false,
       "missingChecks": 0
     },
@@ -3520,7 +3545,7 @@
       "sourceId": "szaschillingzuttanschtz",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -3546,7 +3571,7 @@
       "sourceId": "szaschillingzuttanschtz",
       "availability": "seen",
       "firstSeenAt": "2026-11-02T21:03:13Z",
-      "lastSeenAt": "2026-11-25T13:40:10Z",
+      "lastSeenAt": "2026-11-25T19:12:55Z",
       "isNew": true,
       "missingChecks": 0
     },
@@ -3633,7 +3658,7 @@
       "firm": "A&O Shearman",
       "url": "https://careers.aoshearman.com/de/l%C3%A4nderauswahl/deutschland-jobs/3392/2921044/2/1",
       "status": "partial",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 13,
       "message": "Teilprüfung: Funde übernommen, vollständige Abdeckung nicht bestätigt. Weitere Ergebnisseiten konnten nicht vollständig verfolgt werden."
@@ -3643,7 +3668,7 @@
       "firm": "ARQIS",
       "url": "https://arqis.jobs.personio.de/",
       "status": "ok",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": true,
       "found": 5,
       "message": "Öffentliche Ergebnisliste verarbeitet."
@@ -3653,7 +3678,7 @@
       "firm": "Baker McKenzie",
       "url": "https://karriere.bakermckenzie.com/",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3663,9 +3688,9 @@
       "firm": "Bird & Bird",
       "url": "https://twobirds.softgarden.io/de/vacancies",
       "status": "partial",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
-      "found": 7,
+      "found": 8,
       "message": "Teilprüfung: Funde übernommen, vollständige Abdeckung nicht bestätigt."
     },
     {
@@ -3673,7 +3698,7 @@
       "firm": "CMS",
       "url": "https://cms.law/de/deu/stellenausschreibungen/karrieremoeglichkeiten/wissenschaftliche-mitarbeit",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3683,7 +3708,7 @@
       "firm": "Cleary Gottlieb",
       "url": "https://www.clearygottlieb.com/locations/cologne/legal-landing-page/starting-at-cleary",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3693,7 +3718,7 @@
       "firm": "Clifford Chance",
       "url": "https://jobs.cliffordchance.com/wissenschaftliche-mitarbeit",
       "status": "blocked",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Quelle verlangt eine interaktive Zugriffsprüfung. Manuell prüfen."
@@ -3703,7 +3728,7 @@
       "firm": "DLA Piper",
       "url": "https://www.dlapipercareers.de/trainees/",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3713,7 +3738,7 @@
       "firm": "Dentons",
       "url": "https://careers.dentons.com/go/Opportunities-in-Germany_/8685202/",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3723,7 +3748,7 @@
       "firm": "Fieldfisher",
       "url": "https://fieldfisher.jobs.personio.de/",
       "status": "ok",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": true,
       "found": 4,
       "message": "Öffentliche Ergebnisliste verarbeitet."
@@ -3733,7 +3758,7 @@
       "firm": "Freshfields",
       "url": "https://www.freshfields.com/de/deine-karriere/deutschland/legal-careers/referendariat-und-wissenschaftliche-mitarbeit",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3743,7 +3768,7 @@
       "firm": "Gleiss Lutz",
       "url": "https://karriere-bewerbung.gleisslutz.com/",
       "status": "blocked",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "robots.txt nicht zuverlässig zugänglich. Manuell prüfen."
@@ -3753,7 +3778,7 @@
       "firm": "HEUKING",
       "url": "https://www.heuking.de/de/karriere/stellenangebote.html",
       "status": "partial",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 6,
       "message": "Teilprüfung: Funde übernommen, vollständige Abdeckung nicht bestätigt."
@@ -3763,7 +3788,7 @@
       "firm": "Hengeler Mueller",
       "url": "https://hengeler.wd502.myworkdayjobs.com/de-DE/HM-Careers-Legal",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3773,7 +3798,7 @@
       "firm": "Herbert Smith Freehills Kramer",
       "url": "https://careers.hsfkramer.com/global/de/search-results",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3783,7 +3808,7 @@
       "firm": "Hogan Lovells Cadwalader",
       "url": "https://hoganlovells.wd3.myworkdayjobs.com/Search",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3793,7 +3818,7 @@
       "firm": "Jones Day",
       "url": "https://www.jonesday.com/en/careers/locations/germany",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3803,7 +3828,7 @@
       "firm": "Kapellmann",
       "url": "https://kapellmann.de/de/karriere/stellenangebote",
       "status": "partial",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 3,
       "message": "Teilprüfung: Funde übernommen, vollständige Abdeckung nicht bestätigt."
@@ -3813,7 +3838,7 @@
       "firm": "Kirkland & Ellis",
       "url": "https://karriere.kirkland.com/einstiegsmoeglichkeiten/wissenschaftlicher-mitarbeiter/",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3823,7 +3848,7 @@
       "firm": "Latham & Watkins",
       "url": "https://www.lwcareers.com/en/beginning-your-legal-career/germany",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3833,7 +3858,7 @@
       "firm": "Linklaters",
       "url": "https://linklaters.wd3.myworkdayjobs.com/Linklaters",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3843,7 +3868,7 @@
       "firm": "McDermott Will & Schulte",
       "url": "https://mwe.wd5.myworkdayjobs.com/mwe_careers",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3853,7 +3878,7 @@
       "firm": "Milbank",
       "url": "https://www.milbank.com/de/careers/germany/index.html",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3863,7 +3888,7 @@
       "firm": "Noerr",
       "url": "https://www.noerr.com/de/karriere/stellenanzeigen",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3873,7 +3898,7 @@
       "firm": "Norton Rose Fulbright",
       "url": "https://www.nortonrosefulbright.com/de-de/careers/wissenschaftliche",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3882,18 +3907,18 @@
       "id": "orrick",
       "firm": "Orrick",
       "url": "https://www.orrick.com/en/Careers/Global-locations/Careers-in-Germany",
-      "status": "blocked",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "status": "manual",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
-      "message": "robots.txt nicht zuverlässig zugänglich. Manuell prüfen."
+      "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
     },
     {
       "id": "szaschillingzuttanschtz",
       "firm": "SZA Schilling, Zutt & Anschütz",
       "url": "https://www.sza.de/de/karriere/offene-stellen",
       "status": "partial",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 11,
       "message": "Teilprüfung: Funde übernommen, vollständige Abdeckung nicht bestätigt."
@@ -3903,7 +3928,7 @@
       "firm": "Simmons & Simmons",
       "url": "https://www.simmons-simmons.com/about-us/careers",
       "status": "blocked",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "robots.txt nicht zuverlässig zugänglich. Manuell prüfen."
@@ -3913,7 +3938,7 @@
       "firm": "Skadden",
       "url": "https://www.skadden.com/careers/attorneys/law-students-and-graduates/germany?c=297",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3923,7 +3948,7 @@
       "firm": "Taylor Wessing",
       "url": "https://karriere.taylorwessing.com/stellenangebote",
       "status": "error",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Quelle antwortet mit HTTP 404. Manuell prüfen."
@@ -3933,7 +3958,7 @@
       "firm": "Weil, Gotshal & Manges",
       "url": "https://www.weil.com/karriere/stellenangebote",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3943,7 +3968,7 @@
       "firm": "White & Case",
       "url": "https://whitecase.wd1.myworkdayjobs.com/External",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
@@ -3953,7 +3978,7 @@
       "firm": "WilmerHale",
       "url": "https://www.wilmerhale.com/de-de/careers/jobs-at-wilmerhale/referendare-und-wissenschaftliche-mitarbeiter-m-w-d",
       "status": "manual",
-      "checkedAt": "2026-11-25T13:40:10Z",
+      "checkedAt": "2026-11-25T19:12:55Z",
       "complete": false,
       "found": 0,
       "message": "Keine auswertbaren WiMi-Ergebnisse. Suche unvollständig; nicht als fehlende Vakanz gewertet."
